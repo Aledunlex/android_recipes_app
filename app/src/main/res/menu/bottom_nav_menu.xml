@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white">
+
+    <item android:title="@string/home_nav"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home" />
+    <item android:title="@string/fave_nav"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:id="@+id/fave" />
+    <item android:title="@string/display"
+        android:icon="@drawable/ic_launcher_background"
+        android:id="@+id/display" />
+</menu>

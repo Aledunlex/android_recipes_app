@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="clicked_meal_id">meal_id</string>
+    <string name="clicked_category_id">category_id</string>
+    <string name="meal_title_placeholder">A meal gravier</string>
+    <string name="meal_description_placeholder">Step 1. Take a chewing-gum (a meal)</string>
+    <string name="meal_ingredients_placeholder">Ingredients for a meal</string>
+    <string name="meal_s_picture">Meal\'s picture</string>
+    <string name="home_nav">Home</string>
+    <string name="fave_nav">Favorites</string>
+    <string name="meal_ingredients_first_line_decorator">- %s</string>
+    <string name="meal_description_first_line_decorator">* %s</string>
+    <string name="ingredients_title">Ingredients :</string>
+    <string name="meal_preparation">Meal preparation :</string>
+    <string name="favorite_button_title">Favorites</string>
+    <string name="favorite_heart">favoriteIcon</string>
+    <string name="display">Display</string>
+</resources>
